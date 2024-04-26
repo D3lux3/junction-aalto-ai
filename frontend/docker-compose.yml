@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  historybackend:
+    command: dev
+    build: ./
+    restart: always
+    ports:
+      - '3006:3006'
