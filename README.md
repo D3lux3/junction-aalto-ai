@@ -1,3 +1,8 @@
+# Aalto-Ai Hackathon 2024 
+### Repo to hold files used outside WatsonX platform
+> IBM Challenge
+## Use front
+
 Easy way (Docker):
 
 In terminal enter:
@@ -20,3 +25,4 @@ npm run dev
 ```
 
 The frontend should be accessible on URL: `localhost:3006`
+
